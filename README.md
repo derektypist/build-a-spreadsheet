@@ -8,4 +8,15 @@ How to dynamically update the page based on user input.
 
 **Getting Started**
 
-Functions include 
+Functions include
+
+- sum
+- average
+- median
+- iseven
+- someeven
+- everyeven
+- increment
+- random
+- range
+- nodupes
